@@ -11,26 +11,8 @@
 - [Deployment](#deployment)
 
 ### Installation
-Clone repo: 
-```sh
-git clone https://github.com/ooade/NextSimpleStarter.git
-cd NextSimpleStarter
-```
 
-Make it your own:
-```sh
-rm -rf .git && git init && yarn init
-```
-> :information_source: This re-initializes the repo and sets up your project.
-
-Install the dependencies:
-```sh
-yarn install
-```
-or
-```sh
-npm install
-```
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/NextSimpleStarter)
 
 ### Development Workflow
 Start a live-reload development server:
