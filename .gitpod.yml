@@ -1,6 +1,6 @@
 ports:
   - port: 3000
-    onOpen: open-preview
+    onOpen: notify
 tasks:
   - init: yarn
     command: yarn dev
