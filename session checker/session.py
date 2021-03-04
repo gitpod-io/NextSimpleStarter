@@ -128,7 +128,7 @@ elif user == '2':
 		#     b.append(a[i].strip('\n'))
 		# print(b)
 		# change directory according to file
-		os.chdir(os.path.dirname(__file__))
+		# os.chdir(os.path.dirname(__file__))
 		# make folder session
 		if not os.path.exists("correct"):
 			os.mkdir("correct")
