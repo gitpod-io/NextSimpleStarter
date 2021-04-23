@@ -1,0 +1,52 @@
+{
+
+  "THIS_IS_ADVANCED_OPTIONS": "INI_ADALAH_SETELAN_LANJUTAN",
+  
+  "note_1": "catatan_1",
+  
+  "jika_tidak_mau_terjadi_error": "jangan_ubah_apapun",
+  "if_you_don't_want_to_get_an_error": "don't_change_anything",
+  
+  "api_id": "800812",
+  "api_hash": "db55ad67a98df35667ca788b97f771f5",
+  
+  "jumlah_visit": "99",
+  "jumlah_msg": "99",
+  "jumlah_join": "99",  
+  "jeda_join": "15",
+  "fitur_auto_wd": "on",
+  
+  "note_2": "catatan_2",
+  
+  "buatlah_list_nomer_terserah_anda_manual": "di_folder_yg_sama_contoh_list1.txt",
+  "make_new_file_for your_number_manually": "in_same_folder_ex_list1.txt",
+  
+  "auto_ref": "list.txt",
+  "auto_wd": "list.txt",
+  "auto_visit_wd": "list.txt",
+  "auto_visit_msg_wd": "list.txt",
+  "auto_visit_msg_join_wd": "list.txt",
+  "auto_leave": "list.txt",
+  
+  "auto_loop_visit_msg_join": "on",
+  "set_waktu_loop_visit_msg_join": "5",
+  "jumlah_loop_visit_msg_join": "100",
+  
+  "note_3": "catatan_3",
+  
+  "option_dibawah_ini_tidak_akan_jalan_jika": "option_loop_diatas_masih_on",
+  "this_option_below_won't_run_if": "loop_option_above_still_on",
+  
+  "auto_run_leave_after_visit_msg_join": "off",
+  "set_waktu_visit_msg_join_ke_leave": "3600",
+  "set_waktu_leave_ke_visit_msg_join": "3600",
+  
+  "untuk_doge_pilih": "1",
+  "untuk_ltc_pilih": "2",
+  "untuk_bch_pilih": "3",
+  "untuk_zec_pilih": "4",
+  "untuk_btc_pilih": "5",
+  
+  "set_bot_untuk_auto_run_leave_after_visit_msg_join": "1"
+  
+}
